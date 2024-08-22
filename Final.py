@@ -4,9 +4,6 @@ import json
 import time
 from PIL import Image
 import io
-import torch
-import torch.nn as nn
-from torchvision import models, transforms
 import tempfile
 
 # Configuración de la API de Leonardo.AI
