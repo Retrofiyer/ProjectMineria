@@ -48,10 +48,6 @@ venv.bak/
 instance/
 .webassets-cache
 
-# Flask SQLite database files
-*.db
-*.sqlite3
-
 # Jupyter Notebook
 .ipynb_checkpoints/
 
